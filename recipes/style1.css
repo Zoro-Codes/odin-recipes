@@ -20,12 +20,8 @@ body{
     border: none;
     padding: 8px 16px;
     border-radius: 6px;
-    cursor: pointer;
 }
 
-.home-btn:hover{
-    background-color: #ff4040;
-}
 
 img{
     display: block;
